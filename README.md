@@ -7,3 +7,7 @@
 * what is XML/XML что это? [[click here](https://github.com/RDS2ML/2SF/blob/main/what%20is%20XML.ipynb)]
 * from XML to pandas create XML\из XML в pandas создание XML [[click here](https://github.com/RDS2ML/2SF/blob/main/from%20XML%20to%20pandas%20create%20to%20XML.ipynb)]
 ### PYTHON-17 []
+* library requests/библиотека requests []
+* library BeautifulSoup/Библиотека BeautifulSoup []
+* working with API/Работа с API []
+* automatic data export/автоматическая выгрузка даннаых []
