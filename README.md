@@ -23,3 +23,6 @@
 ### SQL-4 
 * SQL union tables\SQL объеденение таблиц []
 * SQL except and intersect tables\SQL вычетание и пересечение таблиц []
+### SQL-5
+* SQL date\SQL даты []
+* SQL text\SQL текст []
